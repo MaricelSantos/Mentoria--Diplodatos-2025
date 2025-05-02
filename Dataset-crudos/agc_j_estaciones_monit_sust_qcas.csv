@@ -1,0 +1,26 @@
+gobierno_local,sitio,codigo,latitud,longitud,Poblacion_partido,Personas_con_cloacas,Actividad_principal,"Agricultura, ganadería, caza y silvicultura",Pesca explotación de criaderos de peces y granjas piscícolas y servicios conexos,Explotación de minas y canteras,Industria Manufacturera,"Electricidad, gas y agua",Construcción,Servicios
+Tigre,Canal Villanueva y río Luján,TI004,-34.408.061,-58.590.839,446.949,144.834,"""La industria metalúrgica y la actividad maderera""",4,4,4,4,5,3,4
+Tigre,Río Luján y arroyo Caraguatá,TI006,-34.384.169,-58.632.511,446.949,144.834,"""La industria metalúrgica y la actividad maderera""",4,4,4,4,5,3,4
+Tigre,Río Capitán y río San Antonio,TI008,-34.375.561,-58.558.619,446.949,144.834,"""La industria metalúrgica y la actividad maderera""",4,4,4,4,5,3,4
+San Fernando,Del arca,SF015,-34.438.919,-58.536.519,171.616,157.308,"""Actividad náutica""",2,7,0,5,7,7,5
+San Isidro,Reserva ecológica,SI022,-34.465.281,-58.493.061,297.282,275.528,"""Explotación de minas y canteras con el 11,53%. Asimismo, es el segundo en participación en el rubro construcción""",0,5,1,6,3,1,1
+San Isidro,Perú puente,SI023,-34.484.169,-5.847.945,297.282,275.528,"""Explotación de minas y canteras con el 11,53%. Asimismo, es el segundo en participación en el rubro construcción""",0,5,1,6,3,1,1
+Vicente López,Puerto de olivos espigón,VL032,-34.505.531,-58.473.719,282.281,273.863,"""Industria Manufacturera""",0,6,2,1,4,4,7
+CABA,Reserva ecológica ciudad universitaria costanera norte,CA CU01,-34.535.878,-58.445.933,3.121.707,3.049.672,"""servicios inmobiliarios, financieros y comercio""",,,,,,,
+CABA,Reserva ciudad universitaria: boca de entrada al humedal  desembocadura arroyo white,CA CU02,-34.537.272,-58.448.339,3.121.707,3.049.672,"""servicios inmobiliarios, financieros y comercio""",,,,,,,
+CABA,Reserva ciudad universitaria: marisma canal de marea principal,CA CU03,-34.538.686,-58.445.589,3.121.707,3.049.672,"""servicios inmobiliarios, financieros y comercio""",,,,,,,
+CABA,Reserva ciudad universitaria: humedal central   planicie de marea,CA CU04,-34.539.667,-58.443.781,3.121.707,3.049.672,"""servicios inmobiliarios, financieros y comercio""",,,,,,,
+CABA,Reserva ciudad universitaria: dique sur subsistema laguna,CA CU05,-34.540.675,-584.419,3.121.707,3.049.672,"""servicios inmobiliarios, financieros y comercio""",,,,,,,
+CABA,Costanera norte espigón abanico,CA044,-34.547.089,-58.430.231,3.121.707,3.049.672,"""servicios inmobiliarios, financieros y comercio""",,,,,,,
+CABA,Club de pescadores,CA046,-34.563.231,-58.404.119,3.121.707,3.049.672,"""servicios inmobiliarios, financieros y comercio""",,,,,,,
+CABA,Reserva ecológica costanera sur playita,CA047,-34.612.761,-58.340.611,3.121.707,3.049.672,"""servicios inmobiliarios, financieros y comercio""",,,,,,,
+Avellaneda,Arroyo Santo Domingo,AV053,-34.662.789,-58.296.669,367.554,289.059,"""Producción de electricidad, gas y agua""",3,3,3,2,1,5,6
+Avellaneda,Escollera de propaneros,AV054,-34.63,-58.328.339,367.554,289.059,"""Producción de electricidad, gas y agua""",3,3,3,2,1,5,6
+Quilmes,Espora 400 m,QU061,-3.469.195,-58.253.889,633.391,469.008,Pesca explotación de criaderos de peces y granjas piscícolas y servicios conexos,5,1,0,3,2,2,2
+Berazategui,Calle 14 y costa - salida cloaca,BZ078,-34.744.169,-58.177.231,358.712,267.760,"""Agricultura, ganadería, caza y silvicultura""",1,2,0,7,6,6,3
+Berazategui,Costanera Hudson calle 63,BZ080,-34.753,-58.108.281,358.712,267.760,"""Agricultura, ganadería, caza y silvicultura""",1,2,0,7,6,6,3
+Ensenada,Camping Eva Perón,EN081,-34.820.711,-57.965.319,63.997,37.375,"""siderúrgica y refineria de petroleo""",,,,,,,
+Ensenada,Ensenada prefectura isla Santiago,EN084,-34.833.911,-57.880.211,63.997,37.375,"""siderúrgica y refineria de petroleo""",,,,,,,
+Berisso,Playa La Bagliardi,BS091,-34.873.061,-57.810.561,100.930,47.630,"""Industria Manufacturera""",,,,,,,
+Berisso,Balneario Palo Blanco,BS092,-34.855.808,-57.838.144,100.930,47.630,"""Industria Manufacturera""",,,,,,,
+Ensenada,Boca cerrada (res. extra nat. punta Lara),EN AD,-34.781.253,-58.008.481,63.997,37.375,"""siderúrgica y refineria de petroleo""",,,,,,,
