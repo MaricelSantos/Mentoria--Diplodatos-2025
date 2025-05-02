@@ -16,7 +16,7 @@ A su vez, también es importante reconocer que algunos parámetros de control so
 ## DATOS
 El dataset constará de la conjunción de algunos datos públicos del Ministerio de Ambiente y Desarrollo Sostenible (2015-2023)[2]. El registro cuenta con información de 42 estaciones, monitoreadas entre una y cuatro veces por año (primavera, verano, otoño e invierno). Se compilará información del periodo 2022 a 2024 ya que son los registros más completos en cuanto a número de variables, pero también se puede utilizar años previos. La cantidad de variables monitoreados para calidad de agua son: 7 físicas-organolepticas, 11 químicas, 5 biológicas y 2 indicadores. A su vez fueron agregados datos demográficos de los municipios a los cuales pertenece cada sitio de monitoreo. En este sentido, se recopiló información adicional sobre el número de habitantes, acceso a servicio de cloacas y actividades industriales utilizando datos del CENSO 2022 [3] y del Programa de Estudios del Conurbano [4].
 
-En este repositorio puede encontrar los conjuntos de datos originales, el código merge para lograr el csv de trabajo y la metadata (mapa, variables, unidades) en la carpeta "DataSet-Crudos". El resultado es el csv con el que trabajaremos "Conexiones_Transparentes.csv". Las features disponibles, sus unidades o categorías son las siguientes:
+En este repositorio puede encontrar los conjuntos de datos originales, el código merge para lograr el csv de trabajo y la metadata (mapa, variables, unidades) en la carpeta "DataSet-crudos". El resultado es el csv con el que trabajaremos "Conexiones_Transparentes.csv". Las features disponibles, sus unidades o categorías son las siguientes:
 
 ## Variables principales
 
@@ -68,6 +68,9 @@ Las siguientes columnas ordenan al municipio al que pertenece el sitio respecto 
 
 
 [1] Torres, P., Hernán Cruz, C., & Janeth Patiño, P. (2019). Índices de calidad de agua en fuentes superficiales utilizadas en la producción de agua para consumo humano. Una revisión crítica.. Revista Ingenierías Universidad de Medellín, 80–93.
-[2] Ministerio de Ambiente y Desarrollo Sostenible. (2023). Repositorio de datos sobre calidad del agua. Recuperado 14 de marzo de 2024 de https://ciam.ambiente.gob.ar/repositorio.php?tid=1 
+
+[2] Ministerio de Ambiente y Desarrollo Sostenible. (2023). Repositorio de datos sobre calidad del agua. Recuperado 14 de marzo de 2024 de https://ciam.ambiente.gob.ar/repositorio.php?tid=1
+
 [3] Instituto Nacional de Estadística y Censos (INDEC). (2022). Censo Nacional de Población, Hogares y Viviendas 2022 (Censo 2022). Recuperado 14 de marzo de 2024 de https://www.indec.gob.ar/
+
 [4] Programa de Estudios del Conurbano. Universidad Nacional de Avellaneda. (2015). Municipios. Recuperado 14 de marzo de 2024 de http://www.atlasconurbano.info/pagina.php?id=169
