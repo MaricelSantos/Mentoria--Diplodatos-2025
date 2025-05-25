@@ -1,7 +1,7 @@
 # Mentoría-07-Diplodatos-2025
 Consignas de mentoría "Conexiones Transparentes: Descubriendo Relaciones Cruciales para la Calidad del Agua en el Río de La Plata"
 
-# "Conexiones Transparentes: Descubriendo Relaciones Cruciales para la Calidad del Agua en el Río de La Plata"
+# "El impacto de las condiciones ambientales en la calidad del agua del Río de La Plata"
 
 En este repositorio se encuentran alojados: el dataset de trabajo para la mentoría y las consignas correspondientes a cada uno de los trabajos prácticos de la misma. 
 
