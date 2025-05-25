@@ -1,4 +1,4 @@
-# Mentoría--Diplodatos-2025
+# Mentoría-07-Diplodatos-2025
 Consignas de mentoría "Conexiones Transparentes: Descubriendo Relaciones Cruciales para la Calidad del Agua en el Río de La Plata"
 
 # "Conexiones Transparentes: Descubriendo Relaciones Cruciales para la Calidad del Agua en el Río de La Plata"
@@ -12,6 +12,19 @@ El objetivo propuesto es desarrollar un modelo predictivo del ICA utilizando té
 
 A su vez, también es importante reconocer que algunos parámetros de control son costosos de evaluar, tanto en términos de recursos materiales como de tiempo necesario. En este contexto, resulta particularmente interesante explorar las posibles correlaciones entre las variables utilizando diferentes herramientas de la estadística descriptiva y del aprendizaje supervisado. Este enfoque permitirá no solo comprender las relaciones intrínsecas entre los diversos aspectos del agua, sino también identificar oportunidades para optimizar los recursos, centrándose en la predicción de variables mediante la observación y monitorización de aquellas menos costosas y que incluso en algunos casos pueden ser medidas en tiempo real.
 
+Con éste proyecto trataremos de responder algunas de las siguientes preguntas:
+
+¿En una estación de monitoreo, todas la variables medidas son importantes para el índice de calidad de agua (ICA)?
+
+¿La forma en que el ICA es actualmente calculado refleja los parámetros críticos medidos en las estaciones de monitoreo? 
+
+¿Existe relación entre la calidad de agua y el periodo estacional de medición?
+
+¿Existe relación entre la calidad de agua y la población del sitio de monitoreo? y entre las características que tiene esa población?
+
+¿Podemos en encontrar relaciones entre las variables medidas en el agua?
+
+¿Es posible utilizar correlaciones de forma tal que algunas variables predigan a otras?
 
 ## DATOS
 El dataset constará de la conjunción de algunos datos públicos del Ministerio de Ambiente y Desarrollo Sostenible (2015-2023)[2]. El registro cuenta con información de 42 estaciones, monitoreadas entre una y cuatro veces por año (primavera, verano, otoño e invierno). Se compilará información del periodo 2022 a 2024 ya que son los registros más completos en cuanto a número de variables, pero también se puede utilizar años previos. La cantidad de variables monitoreados para calidad de agua son: 7 físicas-organolepticas, 11 químicas, 5 biológicas y 2 indicadores. A su vez fueron agregados datos demográficos de los municipios a los cuales pertenece cada sitio de monitoreo. En este sentido, se recopiló información adicional sobre el número de habitantes, acceso a servicio de cloacas y actividades industriales utilizando datos del CENSO 2022 [3] y del Programa de Estudios del Conurbano [4].
