@@ -1,0 +1,7 @@
+*¿Cómo podemos validar que los dataset que tenemos para introducir al modelo son aptos? Propuestas: volver a realizar visualizaciones, sobre todo de faltantes, outliers, ver que hayan quedado bien las normalizaciones/escalados, encodings... Podemos tomar unas cuantas filas random del dataset y chequear visualmente que todo tenga la pinta que le corresponde.
+*Si elegimos al ICA como variable target para hacer una regresión  ¿Qué modelos de regresión existen? ¿Cuáles podríamos explorar en este contexto?  ¿ Todos los modelos nos darán información sobre la relevancia de las variables? Mencionar brevemente el funcionamiento y sus parámetros
+*Si elegimos "Calidad de Agua" para un problema de clasificación ¿Qué modelos de clasificación existen? ¿Cuáles podríamos explorar en este contexto? ¿ Todos los modelos nos darán información sobre la relevancia de las variables? Mencionar brevemente el funcionamiento y sus parámetros
+*¿ Qué métricas existen para conocer la performance de cada modelo? ¿Cuál es la ventaja de usar esa métrica?
+Una vez seleccionado el modelo, el mismo permite hacer ajuste de hiper parámetros? Podemos utilizar técnicas de Cross-Validation con Gridsearch o Randomsearch?
+Se generara un primer modelo baseline que nos servirá de punto de comparación con otros modelos. Para realizar la comparación tendremos que tener en cuanta cuáles son las métricas más apropiadas para optimizar y se realizaran ajustes por hiperparámetros en los diferentes modelos.
+Concluiremos eligiendo el modelo más adecuado para la predicción propuesta.
